@@ -8,7 +8,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img src="https://github.com/K3ndev/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/K3ndev/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
-</div>div
+</div>
 
 ---
 
