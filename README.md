@@ -4,5 +4,3 @@
 </div>
 
 ---
-
- At present, I'm working towards honing my skills in Software Development and Cybersecurity. 
